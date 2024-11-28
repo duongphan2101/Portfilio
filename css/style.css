@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    scroll-behavior: smooth;
+}
+
+.fakeimg {
+    height: 250px;
+    background: url('../imgs/a.jpg') center center no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+  }
+
+  .fakeimg1 {
+    height: 300px;
+    background: #333;
+  }
+
+  .upcase{
+    text-transform: uppercase;
+  }
+
+  .emp{
+    list-style-type: none;
+  }
+
